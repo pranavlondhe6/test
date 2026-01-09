@@ -1,0 +1,3 @@
+this is the sample file 
+
+changes from feature2
